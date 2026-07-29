@@ -24,3 +24,15 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 └── Hard/
     ├── 0004-median-of-two-sorted-arrays.cpp
     └── ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
