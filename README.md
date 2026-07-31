@@ -31,6 +31,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Himanshu11-03/LEETCODE/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu11-03/LEETCODE/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu11-03/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
