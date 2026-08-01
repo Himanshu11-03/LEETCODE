@@ -1,6 +1,6 @@
 # 🧩 LeetCode Solutions
 
-Welcome to my **LeetCode Solutions** repository! This repository contains my clean, well-commented solutions to various LeetCode problems aimed at mastering Data Structures and Algorithms (DSA) and preparing for technical interviews.
+Welcome to my **LeetCode Solutions** repository! This repository contains my clean, well-commented solutions to various LeetCode problems aimed at mastering Data Structures and Algorithms (DSA) and preparing for technical interviews..
 
 ---
 
