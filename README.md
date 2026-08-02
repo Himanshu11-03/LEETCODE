@@ -40,6 +40,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
 ## Recursion
 |  |
