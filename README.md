@@ -33,6 +33,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Himanshu11-03/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -58,6 +59,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu11-03/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
