@@ -52,6 +52,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
+| [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +107,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
