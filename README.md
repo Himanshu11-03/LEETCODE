@@ -45,6 +45,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -94,10 +95,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
