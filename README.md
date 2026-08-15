@@ -67,6 +67,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0027-remove-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Himanshu11-03/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -106,6 +107,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Himanshu11-03/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
