@@ -36,6 +36,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0027-remove-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -127,6 +128,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
@@ -157,6 +159,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
