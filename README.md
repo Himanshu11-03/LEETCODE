@@ -46,6 +46,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshu11-03/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu11-03/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
