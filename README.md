@@ -61,6 +61,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0009-palindrome-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
@@ -113,6 +114,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
@@ -182,4 +184,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
