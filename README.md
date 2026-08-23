@@ -45,6 +45,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0287-find-the-duplicate-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshu11-03/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -56,6 +57,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu11-03/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -97,6 +99,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
