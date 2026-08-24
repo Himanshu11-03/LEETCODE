@@ -39,6 +39,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0009-palindrome-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
