@@ -5,7 +5,6 @@ public:
         
         while (left < right) {
             if (s[left] != s[right]) {
-                // Try skipping either the character at left or the character at right
                 return isPalindrome(s, left + 1, right) || isPalindrome(s, left, right - 1);
             }
             left++;
