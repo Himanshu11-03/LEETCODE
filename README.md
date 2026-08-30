@@ -79,6 +79,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Himanshu11-03/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Himanshu11-03/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
