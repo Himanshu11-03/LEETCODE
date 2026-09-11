@@ -77,6 +77,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Himanshu11-03/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
@@ -179,6 +180,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
@@ -191,6 +193,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Stack
 |  |
