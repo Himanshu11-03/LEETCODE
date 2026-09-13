@@ -38,6 +38,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0027-remove-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -267,6 +268,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
