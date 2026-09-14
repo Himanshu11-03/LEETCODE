@@ -38,6 +38,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0027-remove-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -65,6 +66,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0001-two-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu11-03/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu11-03/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -225,6 +227,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -269,6 +272,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
@@ -276,5 +280,10 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
