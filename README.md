@@ -57,6 +57,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshu11-03/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -202,6 +203,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
+| [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -279,6 +282,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -288,4 +292,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
