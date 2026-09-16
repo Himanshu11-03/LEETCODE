@@ -180,6 +180,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0014-longest-common-prefix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Himanshu11-03/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu11-03/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
