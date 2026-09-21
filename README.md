@@ -64,6 +64,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -215,6 +216,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
+| [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -345,4 +348,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
