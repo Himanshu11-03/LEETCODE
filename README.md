@@ -44,6 +44,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
@@ -74,6 +75,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0012-integer-to-roman](https://github.com/Himanshu11-03/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
@@ -256,6 +258,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
