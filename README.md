@@ -84,6 +84,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -363,4 +364,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
