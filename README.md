@@ -368,6 +368,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
