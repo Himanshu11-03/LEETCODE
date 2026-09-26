@@ -117,6 +117,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0326-power-of-three](https://github.com/Himanshu11-03/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0020-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -373,4 +375,9 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0092-reverse-linked-list-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
