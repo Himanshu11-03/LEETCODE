@@ -111,6 +111,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Himanshu11-03/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -372,6 +373,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
