@@ -281,6 +281,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
@@ -353,10 +354,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -378,6 +381,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
@@ -390,4 +394,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
