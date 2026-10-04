@@ -49,6 +49,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -188,6 +189,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0022-generate-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu11-03/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0509-fibonacci-number) |
