@@ -153,6 +153,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
@@ -233,6 +234,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0680-valid-palindrome-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Himanshu11-03/LEETCODE/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Himanshu11-03/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -265,6 +267,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0032-longest-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Himanshu11-03/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -321,6 +324,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0032-longest-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Himanshu11-03/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## String Matching
 |  |
