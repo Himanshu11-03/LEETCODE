@@ -50,6 +50,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -101,6 +102,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0263-ugly-number) |
@@ -262,6 +264,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Stack
@@ -434,4 +437,20 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
