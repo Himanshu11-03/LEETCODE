@@ -59,6 +59,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu11-03/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -87,6 +88,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu11-03/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -273,6 +275,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0020-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -428,6 +431,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
 |  |
