@@ -85,6 +85,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0202-happy-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu11-03/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +109,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0231-power-of-two](https://github.com/Himanshu11-03/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Himanshu11-03/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
@@ -199,6 +201,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0070-climbing-stairs](https://github.com/Himanshu11-03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu11-03/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -388,6 +391,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
