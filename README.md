@@ -62,6 +62,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0496-next-greater-element-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 | [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
@@ -154,6 +155,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Himanshu11-03/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -161,6 +163,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu11-03/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -185,6 +188,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0367-valid-perfect-square](https://github.com/Himanshu11-03/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshu11-03/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -216,6 +220,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu11-03/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
