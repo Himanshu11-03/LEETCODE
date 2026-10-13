@@ -72,6 +72,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu11-03/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0680-valid-palindrome-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu11-03/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu11-03/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
