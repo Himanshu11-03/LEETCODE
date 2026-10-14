@@ -121,6 +121,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0509-fibonacci-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/Himanshu11-03/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0680-valid-palindrome-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Himanshu11-03/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu11-03/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
