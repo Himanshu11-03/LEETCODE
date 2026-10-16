@@ -41,6 +41,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Himanshu11-03/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -82,6 +83,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0012-integer-to-roman](https://github.com/Himanshu11-03/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Himanshu11-03/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0141-linked-list-cycle) |
