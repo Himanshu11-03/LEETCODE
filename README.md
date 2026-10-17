@@ -43,6 +43,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0039-combination-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Himanshu11-03/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshu11-03/LEETCODE/tree/master/0066-plus-one) |
@@ -223,6 +224,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0015-3sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
@@ -380,6 +382,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0037-sudoku-solver](https://github.com/Himanshu11-03/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Himanshu11-03/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Himanshu11-03/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
