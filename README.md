@@ -122,6 +122,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0326-power-of-three](https://github.com/Himanshu11-03/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Himanshu11-03/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Himanshu11-03/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Himanshu11-03/LEETCODE/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -287,6 +288,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Himanshu11-03/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
 ## Number Theory
 |  |
