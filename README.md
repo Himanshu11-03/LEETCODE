@@ -53,6 +53,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0078-subsets](https://github.com/Himanshu11-03/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0162-find-peak-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -193,6 +194,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu11-03/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0287-find-the-duplicate-number) |
