@@ -157,6 +157,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Himanshu11-03/LEETCODE/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -233,6 +234,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0015-3sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Himanshu11-03/LEETCODE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
@@ -343,6 +345,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
@@ -428,6 +431,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu11-03/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -458,6 +462,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0092-reverse-linked-list-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himanshu11-03/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
