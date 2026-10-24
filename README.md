@@ -56,6 +56,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0162-find-peak-element](https://github.com/Himanshu11-03/LEETCODE/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Himanshu11-03/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu11-03/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0141-linked-list-cycle](https://github.com/Himanshu11-03/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Himanshu11-03/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Himanshu11-03/LEETCODE/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
@@ -320,6 +322,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu11-03/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
