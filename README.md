@@ -100,6 +100,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0268-missing-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Himanshu11-03/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Himanshu11-03/LEETCODE/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshu11-03/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -268,6 +269,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0301-remove-invalid-parentheses](https://github.com/Himanshu11-03/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Himanshu11-03/LEETCODE/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Himanshu11-03/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Himanshu11-03/LEETCODE/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Himanshu11-03/LEETCODE/tree/master/0443-string-compression) |
@@ -422,6 +424,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Himanshu11-03/LEETCODE/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
