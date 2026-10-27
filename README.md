@@ -74,6 +74,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshu11-03/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshu11-03/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshu11-03/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
@@ -247,6 +248,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Himanshu11-03/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Himanshu11-03/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshu11-03/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu11-03/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
@@ -326,6 +328,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu11-03/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Himanshu11-03/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshu11-03/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Trie
 |  |
 | ------- |
