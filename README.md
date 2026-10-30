@@ -82,6 +82,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Himanshu11-03/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu11-03/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu11-03/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Himanshu11-03/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himanshu11-03/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0342-power-of-four](https://github.com/Himanshu11-03/LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Himanshu11-03/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0980-unique-paths-iii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0980-unique-paths-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -360,6 +363,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | [0148-sort-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshu11-03/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Himanshu11-03/LEETCODE/tree/master/0912-sort-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -461,6 +465,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Himanshu11-03/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/Himanshu11-03/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -517,8 +522,14 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my cle
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Himanshu11-03/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Himanshu11-03/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
